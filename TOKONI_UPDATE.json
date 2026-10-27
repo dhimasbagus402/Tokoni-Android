@@ -1,0 +1,9 @@
+{
+    "versionCode":  12,
+    "versionName":  "1.2.0",
+    "url":  "https://github.com/dhimasbagus402/Tokoni-Android/releases/download/v1.2.0/Tokoni.apk",
+    "sha256":  "7a66f4b7fca19976c55705084668a17afb7854b71dfb6faa0830f9645953c22c",
+    "size":  21228671,
+    "notes":  "Tombol Bayar, Edit \u0026 Hapus di detail transaksi, menu Bagikan (WhatsApp \u0026 Email), grafik, dan pembaruan langsung dari aplikasi.",
+    "notesEn":  "Pay, Edit \u0026 Delete buttons in transaction details, a Share menu (WhatsApp \u0026 Email), charts, and in-app updates."
+}
